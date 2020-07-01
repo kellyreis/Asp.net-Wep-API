@@ -66,3 +66,7 @@ Com as tabelas criadas, você pode fazer as consultas dos endpoints citados.
 <h3>[Get] /poll/:id/stats </h3>
 <pre>Retornar estatísticas sobre a enquete e adiciona mais uma requisição </pre>
 
+![add](https://user-images.githubusercontent.com/25619397/86200391-e603f780-bb32-11ea-8258-90acc40bf38e.png)
+![get-pol](https://user-images.githubusercontent.com/25619397/86200394-e7352480-bb32-11ea-8db0-0d4ad53dc856.png)
+![states](https://user-images.githubusercontent.com/25619397/86200396-e7352480-bb32-11ea-8b23-1438dcf49369.png)
+![update](https://user-images.githubusercontent.com/25619397/86200397-e7cdbb00-bb32-11ea-90a9-cd31eb3b4b93.png)
