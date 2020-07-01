@@ -52,7 +52,7 @@ Uma observação, não modifique o "name" da "connectionString" ele esta padrão
 Com as tabelas criadas, você pode fazer as consultas dos endpoints citados.
 </p>
 
-<h2>O projeto conta com 5 Endpoints</h2>
+<h2>Endpoints</h2>
 
 <h3>[Get] /poll/:id </h3>
 <pre>Retonar os dados de uma enquete e incrementa "Views" com uma requisição. </pre>
