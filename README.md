@@ -40,7 +40,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Informações para Instalação do Projeto
 
-<h2>Instalção do Banco de dados</h3>
+<h2>Instalação do Banco de dados</h3>
 <p>O banco de dados utilizado e configurado para automatização das tabelas utilizando entityFramework foi o SqlServer. </p>
 <p>Dentro de Web.config adicione as informações do seu banco de dados dentro de "connectionString", faça isso antes de rodar a aplicação.
   </p>
