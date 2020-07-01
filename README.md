@@ -27,15 +27,14 @@
 ## :rocket: Technologies
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Asp.net](https://github.com/Microsoft/TypeScript)
-- [C#](https://github.com/expressjs/express)
-- [entityFramework](https://github.com/facebook/react)
-
-- [SqlServer](https://github.com/PaulLeCam/react-leaflet)
+- [Asp.net](https://github.com/search?q=org%3Amicrosoft+asp.net&unscoped_q=asp.net)
+- [C#](https://github.com/search?l=C%23&q=c%23&type=Repositories)
+- [entityFramework](https://github.com/search?q=entityFramework&type=Repositories)
+- [SqlServer](https://github.com/search?q=SqlServer&type=Repositories)
 
 
 ## :hammer: Tools
-- [Visual Studio](https://github.com/facebook/react-native)
+- [Visual Studio](https://github.com/github/VisualStudio)
 
 
 ## 🔖 Informações para Instalação do Projeto
