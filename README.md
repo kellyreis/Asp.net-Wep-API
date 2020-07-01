@@ -44,7 +44,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 <p>O banco de dados utilizado e configurado para automatização das tabelas utilizando entityFramework foi o SqlServer. </p>
 <p>Dentro de Web.config adicione as informações do seu banco de dados dentro de "connectionString", faça isso antes de rodar a aplicação.
   </p>
-  <pre> <add name="stringConnection" connectionString="Server={host};Database={databasename};User ID={login};Password={senha};" providerName="System.Data.SqlClient" />
+  <pre> <add name='stringConnection' connectionString='Server={host};Database={databasename};User ID={login};Password={senha};' providerName='System.Data.SqlClient' />
 </pre>
 <p>
 pronto! Depois desta configuração as tabelas serão criadas automaticamente pelo entityFramework.
