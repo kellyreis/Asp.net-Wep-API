@@ -1,0 +1,12 @@
+D:\net\app\enquete.infra\bin\Debug\enquete.infra.dll.config
+D:\net\app\enquete.infra\bin\Debug\enquete.infra.dll
+D:\net\app\enquete.infra\bin\Debug\enquete.infra.pdb
+D:\net\app\enquete.infra\bin\Debug\enquete.Domain.dll
+D:\net\app\enquete.infra\bin\Debug\EntityFramework.dll
+D:\net\app\enquete.infra\bin\Debug\EntityFramework.SqlServer.dll
+D:\net\app\enquete.infra\bin\Debug\enquete.Domain.pdb
+D:\net\app\enquete.infra\bin\Debug\EntityFramework.xml
+D:\net\app\enquete.infra\bin\Debug\EntityFramework.SqlServer.xml
+D:\net\app\enquete.infra\obj\Debug\enquete.infra.csprojResolveAssemblyReference.cache
+D:\net\app\enquete.infra\obj\Debug\enquete.infra.dll
+D:\net\app\enquete.infra\obj\Debug\enquete.infra.pdb

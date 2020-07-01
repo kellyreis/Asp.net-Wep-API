@@ -1,0 +1,4 @@
+D:\net\app\enquete.Domain\bin\Debug\enquete.Domain.dll
+D:\net\app\enquete.Domain\bin\Debug\enquete.Domain.pdb
+D:\net\app\enquete.Domain\obj\Debug\enquete.Domain.dll
+D:\net\app\enquete.Domain\obj\Debug\enquete.Domain.pdb
